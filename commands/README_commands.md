@@ -100,3 +100,50 @@ example usage:
 $status
 $s
 
+## $report
+
+Report the last 10 minutes of chat messages
+improper use of the command will result in punishment!
+
+now i dont want to say anything, but the developer
+will probably not care, and anything regarding slurs,
+swears, or potentially unwanted harrassing messages will be ignored
+use the $toggle command to get rid of that person or choose a different server
+
+parameters:
+$report <reason>
+
+example usage:
+$report racial discrimination
+
+---
+
+Now for the *mostly* hidden commands
+
+## $auth
+
+This way you can synchronize your discord account
+with your arras.io in your browser
+i am pretty sure this doesnt do anything *yet*
+there are arrasio account scheduled for the future
+this will probably be the way of syncing them
+
+to use this command message the arras.io bot (arras
+#8547)
+in direct messages of the bot type `$login` and press enter to send the message
+
+the bot will respond with an authentication code
+reveal the spoiler and copy the whole command
+
+then insert it into arras.io command
+
+**as said by the arras.io once loged in, do not install any userscript as they might steal your account**
+
+## $arena
+
+a command with subcommands made for sandbox
+any sandbox owners and sandbox operators have access to all of the subcommands
+also any arras.io admins can use these commands in the game
+but theres a high you chance you wont be able to
+
+check the `arena_command.md` file in this directory
