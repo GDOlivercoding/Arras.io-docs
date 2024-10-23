@@ -2,7 +2,7 @@
 
 **i will be refering to sandbox+a as attr to make it shorter and easier to read**
 
-# All team minimap
+## All team minimap
 bind: attr+t
 
 Show all players on the minimap

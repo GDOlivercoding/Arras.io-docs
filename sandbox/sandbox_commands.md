@@ -2,7 +2,7 @@
 
 **I will refer to your sandbox keybind as `sandbox`, check the README file for more details**
 
-*help menu is in ./help_menus/sandbox help menu.jpg*¨
+*help menu is in ./help_menus/sandbox help menu.jpg*
 
 ## Preset tank
 bind: sandbox + +
@@ -299,7 +299,6 @@ this can change some properties of your tanks such as:
     - no arena boundary force
     - accepts score
     - is visible on leaderboard
-
     - binding certain keybind to left or right click
 
 `sandbox+a+?` shows the help menu
@@ -376,7 +375,9 @@ then press the second key with the sandbox keybind
 promote a user
 
 there are 5 permission levels:
+
     - basic user
+    
     - arena conductor (access to sandbox commands)
 
     - arena supervisor (can demote arena conductor
