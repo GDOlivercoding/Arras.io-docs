@@ -59,7 +59,7 @@ $channel <team or global>
 example usage:
 $channel global
 
-## $afk
+## $afk or $a
 
 Prevents you from being pushed when AFK in base
 thats the command description
@@ -79,6 +79,7 @@ $afk
 
 example usage:
 $afk
+$a
 
 ## $status or $s
 
