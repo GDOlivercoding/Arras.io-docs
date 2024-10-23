@@ -68,7 +68,7 @@ can be tricky and fun
 
 can only be found in magic maze
 
-# white
+### white
 
 i'd say the opposite of the black wall
 instead of repelling matter away from it
@@ -84,7 +84,7 @@ where youre completely stuck unable to move
 
 can only be found in magic maze
 
-# gray (fake)
+### gray (fake)
 
 looks the same as the regular gray wall buts its fake!
 players in the wall are slightly faded
@@ -99,7 +99,7 @@ appart from:
 
 can only be found in magic maze
 
-# any colored, look like a big beta square
+### any colored, look like a big beta square
 
 this is a coloring wall
 when you touch it
@@ -111,7 +111,7 @@ act likes a normal wall appart from the coloring
 changing the color of the player doesnt affect anything
 except.....
 
-# faded, any colored, look like a big beta square
+### faded, any colored, look like a big beta square
 
 the brother of the wall above
 if you match the wall's color
@@ -121,7 +121,7 @@ you can make team bases like this
 again you can change its colored with `sandbox+c`
 cannot be found anywhere
 
-# usually red, got a square inside of it
+### usually red, got a square inside of it
 
 this is a strange wall
 a solid wall
@@ -133,7 +133,7 @@ no real purpose
 changing your own colored can change its behavior
 cannot be found anywhere
 
-# faded red one
+### faded red one
 
 another strange wall
 acts like a faded red wall
@@ -141,7 +141,7 @@ maybe thats the whole thing
 or theres something to it
 cannot be found anywhere
 
-# any colored, has a square in it, and another square filled black
+### any colored, has a square in it, and another square filled black
 
 this is a portal wall!
 how exciting i know right!
@@ -156,7 +156,7 @@ a popup will appear saying "There is no portal to travel to."
 theres no limit how far you can travel with portal walls
 cannot be found anywhere
 
-# outer green, big white-filled square in it
+### outer green, big white-filled square in it
 
 this is a respawn setter wall
 not solid

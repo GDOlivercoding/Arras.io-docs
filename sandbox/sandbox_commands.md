@@ -182,7 +182,7 @@ but they will be able to damage you
 TODO: missing docs
 
 ## Invite to team
-bind: sandbox+z ?????
+bind: sandbox+y ?????
 ????????
 
 ???????????
@@ -377,7 +377,7 @@ promote a user
 there are 5 permission levels:
 
     - basic user
-    
+
     - arena conductor (access to sandbox commands)
 
     - arena supervisor (can demote arena conductor

@@ -52,16 +52,30 @@ parameters:
 $arena size <dynamic or 2 integers>
 
 example usage:
+
+
 $arena size dynamic
+
 $arena size 1000 1000
+
 $arena size 2 2
 
+
+
 wrong:
+
+
 $arena size 0 0
+
 $arena size 1 1
+
 $arena size 41 77
+
 $arena size 9999 9999
+
 $arena size random letters
+
+
 
 ## $arena team
 
@@ -78,7 +92,10 @@ parameters:
 $arena team <integer from 0 to 4>
 
 example usage:
+
+
 $arena team 4
+
 $arena team 0
 
 ## $arena spawnpoint
@@ -93,12 +110,15 @@ they may be passed as float (numbers with decimals)
 if the number exceeds the arena's bounds, the player will spawn closest to where they would've spawned 
 
 parameters:
+
 $arena spawnpoint <x> <y>
 
 example usage:
+
 $arena spawnpoint 21.7 45.4
 
 spawn players in the exact middle by default:
+
 $arena spawnpoint 0 0
 
 ## $arena close
