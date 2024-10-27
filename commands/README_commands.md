@@ -148,3 +148,16 @@ also any arras.io admins can use these commands in the game
 but theres a high you chance you wont be able to
 
 check the `arena_command.md` file in this directory
+
+## $nexus
+
+the most special command of all
+i haven't knew til yesterday
+
+**only available in sandboxes**
+
+run `$nexus` in sandbox
+this will teleport you to the "sandbox nexus"
+where you can visit other public sandboxes
+
+i will cover the sandbox nexus in the directory of name `sandbox nexus`
