@@ -44,3 +44,6 @@ secret menu
 
 all help menus
     -> ./help_menus
+
+how to chat in game
+    -> how_to_chat_in_game.md
