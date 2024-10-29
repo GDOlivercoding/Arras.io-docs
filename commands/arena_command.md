@@ -12,6 +12,8 @@ You can get `arena operator` on any sandbox if you ask the owner
 if they can give you the permissions using `sandbox+;` though for 
 this you might want to read the sandbox documentation
 
+*help menu can be found in ./help_menus/$arena help.jpg*
+
 ## $arena
 
 Just writing $arena will reveal the help menu for the following commands:
@@ -144,9 +146,14 @@ $arena close
 ## $arena public
 
 Allow this server to be displayed in the sandbox nexus
-i have yet still to find out where the sandbox nexus is
-though, when you execute this command, it is certainly public; players will join your sandbox
-best if you want your sandbox to have attention
+for info regarding accessing the sandbox nexus yourself
+read about the `$nexus` command at the bottom
+of the `commands.md` file of this directory
+for more info regarding the sandbox nexus
+visit the `sandbox nexus` directory
+
+by default your sandbox server is not displayed
+in the sandbox nexus
 
 parameters:
 $arena public
@@ -156,10 +163,10 @@ $arena public
 
 ## $arena private
 
-Prevent this server from being displayed
-The opposite of `$arena public`
-this is executed by default
-will not let players join your sandbox unless they have the link to it
+refer to the command above
+removes your sandbox from the sandbox nexus
+by default, your sandbox isn't being displayed
+in the sandbox nexus
 
 parameters:
 $arena private

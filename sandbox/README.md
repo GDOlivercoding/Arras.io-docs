@@ -19,4 +19,4 @@ here, set whatever you want your sandbox keybind to be, by default it is `
 but for other keyboards it can be different
 i have i mapped to space but thats up to you
 
-click the little box> press key of choice
+click the little box > press key of choice

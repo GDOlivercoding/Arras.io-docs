@@ -68,6 +68,14 @@ refer to `skill upgrade saving.md`
 this list can be opened from the little arrow under the options
 arrow
 
+in sandbox, you can see the players' permission level in the sandbox
+and "admin" permission level players have little buttons to
+promote/demote/kick
+
+all players also have a button to report the player
+since reports arent fully implemented
+the button will copy the report to your clipboard
+
 ### Legacy options (are planned to be removed in the future)
 
 ## 3D Mode
