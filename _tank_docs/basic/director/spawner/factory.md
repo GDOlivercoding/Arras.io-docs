@@ -1,0 +1,2 @@
+name: factory
+parent: spawner

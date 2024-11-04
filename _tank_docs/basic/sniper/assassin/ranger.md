@@ -1,0 +1,2 @@
+name: ranger
+parent: assassin

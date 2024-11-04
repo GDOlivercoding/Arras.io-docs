@@ -1,0 +1,2 @@
+name: cruiser
+parent: cruiser

@@ -1,0 +1,2 @@
+name: assassin
+parent: assassin

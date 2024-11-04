@@ -1,0 +1,2 @@
+name: manager
+parent: director

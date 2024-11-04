@@ -1,0 +1,2 @@
+name: musket
+parent: rifle

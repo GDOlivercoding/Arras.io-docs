@@ -1,0 +1,2 @@
+name: hybrid
+parent: destroyer

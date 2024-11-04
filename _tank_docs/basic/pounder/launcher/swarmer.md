@@ -1,0 +1,2 @@
+name: swarmer
+parent: launcher

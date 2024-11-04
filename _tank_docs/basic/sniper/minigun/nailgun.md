@@ -1,0 +1,2 @@
+name: nailgun
+parent: minigun

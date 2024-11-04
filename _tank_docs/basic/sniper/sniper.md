@@ -1,0 +1,2 @@
+name: sniper
+parent: sniper

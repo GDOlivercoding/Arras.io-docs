@@ -1,0 +1,2 @@
+name: deadeye
+parent: assassin

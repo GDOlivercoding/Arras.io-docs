@@ -1,0 +1,2 @@
+name: streamliner
+parent: minigun

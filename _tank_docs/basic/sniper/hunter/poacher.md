@@ -1,0 +1,2 @@
+name: poacher
+parent: hunter

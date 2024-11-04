@@ -1,0 +1,2 @@
+name: focal
+parent: sprayer

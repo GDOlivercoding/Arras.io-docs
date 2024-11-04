@@ -1,0 +1,2 @@
+name: spawner
+parent: spawner

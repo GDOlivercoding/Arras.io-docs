@@ -1,0 +1,2 @@
+name: commander
+parent: cruiser

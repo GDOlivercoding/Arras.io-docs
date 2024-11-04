@@ -1,0 +1,2 @@
+name: landmine
+parent: smasher

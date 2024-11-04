@@ -1,0 +1,2 @@
+name: stalker
+parent: assassin

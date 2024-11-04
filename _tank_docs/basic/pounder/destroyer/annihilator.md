@@ -1,0 +1,2 @@
+name: annihilator
+parent: destroyer

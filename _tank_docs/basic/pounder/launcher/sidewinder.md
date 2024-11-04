@@ -1,0 +1,2 @@
+name: sidewinder
+parent: launcher

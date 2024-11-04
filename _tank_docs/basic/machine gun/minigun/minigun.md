@@ -1,0 +1,2 @@
+name: minigun
+parent: minigun

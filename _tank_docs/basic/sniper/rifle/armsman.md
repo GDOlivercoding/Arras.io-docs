@@ -1,0 +1,2 @@
+name: armsman
+parent: rifle

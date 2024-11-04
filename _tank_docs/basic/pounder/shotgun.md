@@ -1,0 +1,2 @@
+name: shotgun
+parent: pounder

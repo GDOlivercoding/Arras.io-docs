@@ -1,0 +1,2 @@
+name: crossbow
+parent: rifle

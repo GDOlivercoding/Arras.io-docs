@@ -1,0 +1,2 @@
+name: battleship
+parent: cruiser

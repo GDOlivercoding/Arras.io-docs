@@ -1,0 +1,2 @@
+name: redistributor
+parent: sprayer

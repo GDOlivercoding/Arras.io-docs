@@ -1,0 +1,2 @@
+name: mortar
+parent: artillery

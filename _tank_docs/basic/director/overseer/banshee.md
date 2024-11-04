@@ -1,0 +1,2 @@
+name: banshee
+parent: overseer

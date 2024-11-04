@@ -1,0 +1,2 @@
+name: fortress
+parent: cruiser

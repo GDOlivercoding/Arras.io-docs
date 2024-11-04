@@ -1,0 +1,2 @@
+name: necromancer
+parent: underseer

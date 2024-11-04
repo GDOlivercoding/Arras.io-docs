@@ -1,0 +1,2 @@
+name: overtrapper
+parent: overseer

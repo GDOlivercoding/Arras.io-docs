@@ -1,0 +1,2 @@
+name: predator
+parent: hunter
