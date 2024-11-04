@@ -1,2 +1,6 @@
 name: destroyer
-parent: destroyer
+parent: pounder
+current path: not implemented
+all paths:
+
+  basic/pounder/destroyer

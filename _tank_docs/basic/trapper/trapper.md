@@ -1,2 +1,6 @@
 name: trapper
-parent: trapper
+parent: basic
+current path: not implemented
+all paths:
+
+  basic/trapper

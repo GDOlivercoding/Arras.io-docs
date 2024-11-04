@@ -1,2 +1,6 @@
 name: smasher
-parent: smasher
+parent: basic
+current path: not implemented
+all paths:
+
+  basic/smasher
