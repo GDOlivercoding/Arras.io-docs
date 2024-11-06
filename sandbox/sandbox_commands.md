@@ -182,17 +182,17 @@ but they will be able to damage you
 TODO: missing docs
 
 ## Invite to team
-bind: sandbox+y ?????
-????????
+bind: sandbox+y 
 
-???????????
-???
-?????
-?
-???????????
+(edit)
+Press over entity to change its team to yours
+you cant do this on walls
+player invite to team -> player is in your team
+polygon invite to team -> polygon is now in your team, crashers can target the polygon but they
+prefer the player
 
-this seems to be a deprecated command
-i dont think it works in any way, shape or form
+the name of this command is kind of bad
+hold to change entity team in bulk
 
 ## Heal
 bind: sandbox+h
