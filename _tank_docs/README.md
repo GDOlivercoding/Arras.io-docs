@@ -10,3 +10,5 @@ example: twin is in basic/twin, information about twin is in basic/twin/twin.md
 for now, it will include pre mass added information i wrote using a program
 
 i will now add some builds for everything n stuff
+
+this will include some arms race but not arms race builds unless i decide yes

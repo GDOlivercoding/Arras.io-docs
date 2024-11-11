@@ -12,4 +12,4 @@ for octo tank protecting someone else id try:
 
 decent health as always, little bullet speed for damage increase but still slow to keep them around as long as possible, 
 normal damage, max reload to produce as much protecting material as possible
-healing makes taking the hit for others more maintainble
+healing makes taking the hit for others more maintainable

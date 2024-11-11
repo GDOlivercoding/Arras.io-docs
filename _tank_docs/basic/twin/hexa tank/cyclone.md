@@ -10,3 +10,6 @@ all paths:
   basic/machine gun/gunner/cyclone
 
   basic/flank guard/hexa tank/cyclone
+
+
+Don't use cyclone, you should use octo tank instead

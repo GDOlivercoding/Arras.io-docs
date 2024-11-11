@@ -8,3 +8,5 @@ all paths:
   basic/twin/helix/triplex
 
   basic/desmos/helix/triplex
+
+triple shot representation of desmos
