@@ -1,7 +1,5 @@
 # Arras.io Commands
 
----
-
 ## $help
 
 This command shows the help menu for some regular commands usable in any mode, lets cover those first
