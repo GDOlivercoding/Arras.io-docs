@@ -69,15 +69,23 @@ here, you get to become a dreadnought, once you'll enter, you spawn as an egg dr
 i have written a file about old dreadnoughts before
 i wont copypaste but i will take inspiration because it was fine
 
-you can have 6 barels, either you can have all the same 6 barels, 3 one type and 3 the other, or just 3 and an auto thing embedded on you
+you can have 6 barels, either you can have all the same 6 barels, 3 one type and 3 the other, or just 3 and an attachment
+
+### The "Droners"
 
 **Inquisitor** barel: resembles overlord like drones, one barel can hold up to 5 drones
 
 **Assailant** barel: resembles spawner like minios, one barel can hold up to 5 minions
 
+**Infiltrator** barel: resembles battleship, but more like the barel of a base swarm drone dominator, has 3 dispensers
+
+### The "Snipers"
+
 **Sabre** barel: resembles ranger, reload is like ranger's, mild damage, high range
 
 **Gladius** barel: resembles rifle, is like Sabre, but higher reload, and lower damage
+
+### The "Bullet Spammers"
 
 **Diplomat** barel: resembles triplet, high damage, high reload, low range
 
@@ -85,6 +93,13 @@ you can have 6 barels, either you can have all the same 6 barels, 3 one type and
 
 **Peacekeeper** barel: resembles annihilator, one big ball bullet with high health, mild reload and slow speed
 
+### The "Trappers"
+
+**Cerberus** barel: resembles warklet (arms race), 3 trapper barels (traps have big health)
+
+**Centaur** barel: resembles one big builder like trap block, does not travel far
+
+**Siren** barel: resembles mech traps (arms race), a trap with an auto on top
 
 ### Attachments:
 
@@ -94,5 +109,51 @@ you can have 6 barels, either you can have all the same 6 barels, 3 one type and
     - Behemoth 
     adds a massive amount of health
 
-*quick note: old dreadnoughts got recently buffed making them much stronger than before*
+you should have at least one of diplomat, appeaser or peacekeeper barel otherwise you are a massive target, you have no way to defend yourself, especially in maze
 
+trap barels are usually not enough, though a centaur barel might be debatable
+
+dreadnoughts are extremely slow, this means you rely on your bare strengh to survive
+
+popular picks being:
+
+    - diplomat mechanism
+    The best for maze, arguable has the most amount of focused fire
+
+    - diplomat sabre
+    Another one good for maze, can defend itself against threats while being able to shoot through the corner of walls with its sabre barel
+
+    - Inquisitor/Assailant
+    They have no defense. For the main map, requires another dreadnought to defend it, since these two guys got especially buffed, they can be quite annoying
+
+There aren't really any "super bad ones", though one of the worst picks could be Assailant/Inquisitor/Infiltrator mechanism, since you have much less drone stuff to attack and less to defend, though mechanism does stuff, just trust me bro, dont pick these if you wanna have fun playing
+
+Anything that doesn't have a drone barel (or a sniper barel), is gonna be quite stale, super slow, unable to kill a soul, farming shapes in labyrinth
+
+try bullet spammer + sniper/droner
+most of the time that will do
+
+doing bullet spammer + mechanism is never bad, its about you, you the person playing having fun!
+
+i dont know why you would ever use behemoth, if you already dont have enough damage then why make yourself tougher? Though using with peacekeeper might make it like annihilator in labyrinth
+
+forgor to add the peakest normal tanks
+
+## Peakest normal tanks
+
+Best normal tanks include:
+
+    - Annihilator
+    The best by far, fast, strong, best to kill dreads, best in labyrinth, might be weak in open space (main map), this tank was used to achive the first 1 billion score in old dreadnoughts with a normal tank
+
+    - Fork
+    There's not much reason to play fork, it is weaker than annihilator, and does not do a better job at killing dreadnoughts, its still one of the top choices for a reason
+
+    - Phoenix
+    Phoenix is known absolutely everything to be extreme strong, super fast, with a really strong barel for a normal tank, same for old dreadnoughts
+
+    - Booster
+    Not to kill dreadnoughts, but bully small tanks, the grownth cap for olds is so well made for booster, it is faster than most tanks while having an anormous amount of health and damage
+
+    - James the Machine gunner
+    Just, the amount of damage it does, just that, good for destroying polygons, fighting against dreadnoughts, it just is
